@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: 论文
-description: (*) 代表贡献相当，(@)代表通讯作者
+description: (*) 代表贡献相当，(#)代表通讯作者
 nav: true
 nav_order: 2
 ---
