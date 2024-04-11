@@ -6,7 +6,7 @@ subtitle: 华中师范大学计算机学院 Central China Normal University
 
 profile:
   align: right
-  image: newbee.jpg
+  image: mask.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>华中师范大学南湖综合楼7094</p>
