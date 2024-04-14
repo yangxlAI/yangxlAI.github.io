@@ -16,4 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-华中师范大学 讲师/师资博士后， 中国科学院上海高等研究院。 博士毕业于 美国佐治亚州立大学， 本科厦门大学
+华中师范大学 讲师/师资博士后。 博士毕业于 美国佐治亚州立大学， 本科厦门大学。
