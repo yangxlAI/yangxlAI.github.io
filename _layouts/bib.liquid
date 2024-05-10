@@ -40,6 +40,13 @@
           <abbr class="badge">{{ entry.sci }}</abbr>
           {% endif %}
         {% endif %}
+      {% else %}
+          {% if entry.ccf %}
+          <abbr class="badge">{{ entry.ccf }}</abbr>
+          {% endif %}
+          {% if entry.sci %}
+          <abbr class="badge">{{ entry.sci }}</abbr>
+          {% endif %}
       {% endif %}
     </div>
   {% endif %}

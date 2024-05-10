@@ -17,3 +17,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 华中师范大学 讲师/师资博士后。 博士毕业于 美国佐治亚州立大学， 本科厦门大学。
+
+研究方向：深度学习技术, 如生成模型、 能量模型、 半/无监督学习、 教育数据挖掘。
