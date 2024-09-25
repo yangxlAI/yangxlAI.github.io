@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /Group/
 title: Group
-description: members of the lab or group
+description: AI power Education Group in CCNU(APEG-CCNU), https://github.com/APEG-CCNU
 nav: true
 nav_order: 7
 
