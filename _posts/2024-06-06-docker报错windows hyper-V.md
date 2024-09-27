@@ -15,7 +15,7 @@ toc:
 
 于是 docker desktop启动就失败，大概就是说 找不到 unable to detect  Windows Hyper-v/hypervisor。还给了个官方链接， 结果没解决。
 
-![alt text](./images/20240606-docker_miss_hyperv.png)
+![alt text](/assets/images/20240606-docker_miss_hyperv.png)
 
 于是 我经历一番周折， 终于打通了。
 
@@ -41,14 +41,14 @@ toc:
 
 幸运的是，我的仍然已经勾选， 不知道怎么办
 
-![image-20240606164009400](./images/20240606-addremWinFeat.png)
+![image-20240606164009400](/assets/images/20240606-addremWinFeat.png)
 
 
 # Windows功能 Hyper-V
 
 又搜了一圈， 看到说 Hyper-V 要勾选上， 终于看到一个 电脑上缺的玩意， 官方说 家庭版没有， 但总有人解决问题的。
 
-![image-20240606164403080](./images/20240606-hyperv.png)
+![image-20240606164403080](/assets/images/20240606-hyperv.png)
 
 见链接 [Win10家庭中文版安装Hyper-V][^2]
 
@@ -77,7 +77,7 @@ windows 打开 command prompt 即 cmd 方法：
 
 搜索框 -  输入 cmd - 命令行提示符/command prompt， 右键 以管理员运行
 
-![image-20240606165940030](./images/20240606-search.png)
+![image-20240606165940030](/assets/images/20240606-search.png)
 
 设置Hyper-V:
 
