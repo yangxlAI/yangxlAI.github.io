@@ -310,6 +310,9 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
+  sort_by: year, month
+  order: descending, descending
+  
   query: "@*"
   group_by: year
   group_order: descending
