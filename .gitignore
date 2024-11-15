@@ -11,3 +11,4 @@ node_modules/
 vendor
 post_templates
 .vscode/
+docker-compose_proxy.yml
