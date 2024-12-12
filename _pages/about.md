@@ -28,3 +28,5 @@ social: true # includes social icons at the bottom of the page
 
 与[赵玉琦老师](https://cs.ccnu.edu.cn/info/1098/4008.htm)合作指导基于教育大模型及智能体的就业训练 大学生创新项目， 欢迎感兴趣的本科生加入。
 
+
+“教师的目标应该始终是让学生思考 事物/知识的意义”  ———— 《学生为什么不喜欢上学》
