@@ -137,6 +137,7 @@ blog_name: 学无止境的有趣 # blog_name will be displayed in your blog page
 blog_description: 学习的简单记录
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
+future: true
 
 # Pagination
 pagination:
