@@ -26,4 +26,3 @@ social: true # includes social icons at the bottom of the page
 2. 生物信息学
 3. 教育大模型
 
-与[赵玉琦老师](https://cs.ccnu.edu.cn/info/1098/4008.htm)合作指导基于教育大模型及智能体的就业训练 大学生创新项目， 欢迎感兴趣的本科生加入。
