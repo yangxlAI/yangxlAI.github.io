@@ -23,6 +23,6 @@ social: true # includes social icons at the bottom of the page
 目前主要研究内容：
 
 1. 深度学习模型训练效率优化
-2. 生物信息学
-3. 教育大模型
+2. 教育大模型
+3. AI for 应用
 
