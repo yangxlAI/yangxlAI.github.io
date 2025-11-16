@@ -35,34 +35,20 @@ profiles:
     content: students/B2021_hzj.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      2021级本科生
-      方向：深度学习，教育大模型
+      2021级本科生,25级硕士研究生
+      方向：深度学习，大模型
   - align: right
     image: 
-    content: students/B2022_wm.md
+    content: students/G2025_zc.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      2022级本科生
-      方向：深度学习，生物信息学
-  - align: right
-    image: 
-    content: students/B2022_yj.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      2022级本科生
-      方向：深度学习，生物信息学
+      2025级研究生
+      方向：深度学习
   - align: right
     image: 
     content: students/B2022_yjm.md
     image_circular: false # crops the image to make it circular
     more_info: >
       2022级本科生
-      方向：深度学习，生成模型
-  - align: right
-    image: 
-    content: students/B2022_prr.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      2022级本科生
-      方向：深度学习，生物信息学
+      方向：深度学习，多模态
 ---
