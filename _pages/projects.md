@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: 基金和项目
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 基金项目，及个人想法
 nav: true
 nav_order: 3
 display_categories: [基金项目, Fun]
