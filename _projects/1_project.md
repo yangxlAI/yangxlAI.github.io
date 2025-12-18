@@ -4,7 +4,7 @@ title: 教育学数据集
 description: 简单汇总部分教育学数据集和资源
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Fun
 related_publications: true
 ---
 

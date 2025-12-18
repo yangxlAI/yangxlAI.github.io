@@ -4,7 +4,7 @@ title: 分子2D/3D展示
 description: 使用js/python对分子进行可视化
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Fun
 related_publications: true
 ---
 
